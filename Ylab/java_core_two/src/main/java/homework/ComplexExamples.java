@@ -87,7 +87,6 @@ public class ComplexExamples {
         System.out.println(fuzzySearch("cwheeel", "cartwheel"));
         System.out.println(fuzzySearch("lw", "cartwheel"));
 
-
         /*
         Task1
             Убрать дубликаты, отсортировать по идентификатору, сгруппировать по имени
